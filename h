@@ -26,10 +26,7 @@
   <div><iframe width="300" height="60" src="https://vocaroo.com/embed/1iMDMV3gacXw?autoplay=0" frameborder="0" allow="autoplay"></iframe><br><a href="https://voca.ro/1iMDMV3gacXw" title="Vocaroo Voice Recorder" target="_blank">View on Vocaroo >></a></div> 
 
   <p>This is my sport and my hobby, I play basketball everyday</p>
-  <video width="320" height="240" controls>
-    <source src="https://drive.google.com/file/d/1ORC5p3r0irsXWXkeYRaEofnysvfWVIaB/view?usp=sharing">
-    Your browser does not support the video tag.
-  </video>
+  <div style="position:relative; width:100%; height:0px; padding-bottom:192.192%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/gq73s8?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
   <h5>Thats all! Thank you!</h5>
 
